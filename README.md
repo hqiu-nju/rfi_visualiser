@@ -1,5 +1,6 @@
 # satellite_rfi
-A data sample of oneweb satellites and notebook for visualisation
+example notebooks for processing RFI observations with radio telescopes
+
 
 Datafiles are available here:
 satellite data 

@@ -1,4 +1,4 @@
-# satellite_rfi
+# rfi_visualiser
 example notebooks for processing RFI observations with radio telescopes
 
 

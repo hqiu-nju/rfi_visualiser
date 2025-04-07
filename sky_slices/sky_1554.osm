@@ -2,3 +2,5 @@
 #  RA,    Dec,   I,    Q,    U,    V,   freq0, spix,  RM,      maj,      min,      pa
 # (deg), (deg), (Jy), (Jy), (Jy), (Jy), (Hz), (-), (rad/m^2), (arcsec), (arcsec), (deg)
 #
+100 -30 1 0 0 0 1e+08 -0.7 0 0 0 0
+126.874 13.2901 1e-74         

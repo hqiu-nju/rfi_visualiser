@@ -1,0 +1,12 @@
+[General]
+app=oskar_sim_interferometer
+version=2.7.6
+
+[simulator]
+use_gpus=false
+
+[sky]
+oskar_sky_model/file=sky.osm
+
+[telescope]
+input_directory=telescope.tm
